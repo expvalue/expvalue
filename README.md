@@ -1,5 +1,4 @@
-# hey 😊
+# hey :)
 
-**me:** i'm Sai, CS & Math @ GT
-
-**about** i like building things. reach @ saiguvvala [at] gatech [dot] edu.
+I'm **Sai**, CS & Math @ GT  
+<3 building things, reach @ saiguvvala [at] gatech [dot] edu
